@@ -357,8 +357,12 @@
 -analyzer:"D:/Unity/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Input/PlayerInput.cs"
 "Assets/Scripts/InputManager.cs"
-"Assets/Scripts/PlayerLook.cs"
-"Assets/Scripts/PlayerMotor.cs"
+"Assets/Scripts/Interactable.cs"
+"Assets/Scripts/Interactables/Keypad.cs"
+"Assets/Scripts/Player/PlayerInteract.cs"
+"Assets/Scripts/Player/PlayerLook.cs"
+"Assets/Scripts/Player/PlayerMotor.cs"
+"Assets/Scripts/Player/PlayerUI.cs"
 -langversion:9.0
 /deterministic
 /optimize+
