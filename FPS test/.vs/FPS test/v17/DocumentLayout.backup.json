@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\repos\\Unity\\FPS test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4216CDCC-FA44-FC49-16BD-B1AEE59BA604}|Assembly-CSharp-Editor.csproj|D:\\repos\\Unity\\FPS test\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4216CDCC-FA44-FC49-16BD-B1AEE59BA604}|Assembly-CSharp-Editor.csproj|d:\\repos\\unity\\fps test\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4216CDCC-FA44-FC49-16BD-B1AEE59BA604}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwDgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:45:31.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EventOnlyInteractable.cs",
               "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\EventOnlyInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EventOnlyInteractable.cs",
@@ -42,25 +59,24 @@
               "RelativeToolTip": "Assets\\Scripts\\EventOnlyInteractable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T21:11:51.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T21:11:51.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InteractableEditor.cs",
               "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Editor\\InteractableEditor.cs",
               "RelativeDocumentMoniker": "Assets\\Editor\\InteractableEditor.cs",
               "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Editor\\InteractableEditor.cs",
               "RelativeToolTip": "Assets\\Editor\\InteractableEditor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:34:26.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "InteractionEvent.cs",
               "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\InteractionEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InteractionEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:29:01.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T20:29:01.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Keypad.cs",
               "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Interactables\\Keypad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\Keypad.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Interactables\\Keypad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:51:48.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T16:51:48.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Interactable.cs",
               "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:50:47.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T16:50:47.722Z"
             }
           ]
         }
