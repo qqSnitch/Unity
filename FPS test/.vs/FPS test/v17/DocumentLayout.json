@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\repos\\Unity\\FPS test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\player\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\enemy\\states\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\states\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\enemy\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\interactables\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\enemy\\states\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\states\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|d:\\repos\\unity\\fps test\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4216CDCC-FA44-FC49-16BD-B1AEE59BA604}|Assembly-CSharp-Editor.csproj|D:\\repos\\Unity\\FPS test\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4216CDCC-FA44-FC49-16BD-B1AEE59BA604}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|D:\\repos\\Unity\\FPS test\\assets\\scripts\\enemy\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCB8E-67D6-3086-CC23-750CBEF2ADC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\InputManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T09:30:48.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMotor.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Player\\PlayerMotor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMotor.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Player\\PlayerMotor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMotor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAcAAAAAAAAAA==",
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\States\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\States\\PatrolState.cs",
+              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\States\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\States\\PatrolState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T09:27:06.806Z",
+              "WhenOpened": "2024-11-03T20:21:43.18Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAWwDgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T20:45:31.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventOnlyInteractable.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\EventOnlyInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EventOnlyInteractable.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\EventOnlyInteractable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EventOnlyInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T21:11:51.134Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InteractableEditor.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Editor\\InteractableEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\Editor\\InteractableEditor.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Editor\\InteractableEditor.cs",
-              "RelativeToolTip": "Assets\\Editor\\InteractableEditor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Title": "Path.cs",
+              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\Path.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Path.cs",
+              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\Path.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Path.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:34:26.744Z"
+              "WhenOpened": "2024-11-03T20:15:34.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InteractionEvent.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\InteractionEvent.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\InteractionEvent.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InteractionEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:29:01.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Keypad.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Interactables\\Keypad.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\Keypad.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Interactables\\Keypad.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interactables\\Keypad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:51:48.331Z",
+              "WhenOpened": "2024-11-03T20:12:03.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Interactable.cs",
-              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Interactable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
-              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Interactable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\StateMachine.cs",
+              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\StateMachine.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:50:47.722Z"
+              "WhenOpened": "2024-11-03T20:08:13.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\States\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\States\\BaseState.cs",
+              "ToolTip": "D:\\repos\\Unity\\FPS test\\Assets\\Scripts\\Enemy\\States\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\States\\BaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:06:39.293Z",
+              "EditorCaption": ""
             }
           ]
         }
